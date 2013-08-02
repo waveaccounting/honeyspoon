@@ -28,6 +28,10 @@ file (`/etc/sqoop/conf/sqoop-site.xml`):
 
 That should be enough to get it working.
 
+Building from source:
+
+    ant -f honeyspoon.xml
+
 Please note that although it works for us, this is a work-in-progress, alpha-quality piece of software
 and there is no documentation. If you discover a bug or have a feature request, please open an issue.
 
