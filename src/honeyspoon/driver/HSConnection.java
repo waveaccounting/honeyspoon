@@ -24,7 +24,7 @@ public class HSConnection implements java.sql.Connection {
     }
 
     public String nativeSQL(String sql) throws SQLException {
-        return nativeSQL(sql);
+        return conn.nativeSQL(sql);
     }
 
     public void setAutoCommit(boolean autoCommit) throws SQLException {
