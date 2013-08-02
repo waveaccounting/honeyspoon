@@ -42,7 +42,7 @@ and there is no documentation. If you discover a bug or have a feature request, 
 
 ## License and Copyright
 
-Copyright 2013 Wave Inc., http://waveapps.com
+Copyright 2013 Wave Accounting Inc., http://waveapps.com
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
